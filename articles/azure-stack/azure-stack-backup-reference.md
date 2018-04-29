@@ -80,7 +80,7 @@ The requirements include:
 
 #### Storage location sizing 
 
-Infrastructure Backup Controller will back up data on demand. The recommendation is to back up at last two times a day and keep at most seven days of backups. 
+Infrastructure Backup Controller will back up data on demand. The recommendation is to back up at least two times a day and keep at most seven days of backups. 
 
 | Environment Scale | Projected size of backup | Total amount of space required |
 |-------------------|--------------------------|--------------------------------|
